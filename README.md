@@ -3,7 +3,7 @@
 
 This Documentation ifs for Arab open university students 
 For any questions please send an email to python@site84.com 
-Feel Free To commit to this repository your changes wil be reviewed
+Feel Free To commit to this repository your changes will be reviewed
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
