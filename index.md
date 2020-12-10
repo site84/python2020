@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Python 2020
 
-You can use the [editor on GitHub](https://github.com/site84/python2020/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+This Documentation ifs for Arab open university students 
+For any questions please send an email to python@site84.com 
+Feel Free To commit to this repository your changes wil be reviewed
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
